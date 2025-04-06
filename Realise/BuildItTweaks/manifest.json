@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/Digitalroot-Valheim/Digitalroot.Valheim.Common.Interfaces/main/src/json/tsio-manifest.json",
+  "name": "BuildItTweaks",
+  "author": "Crowigor",
+  "description": "Lightweight configuration companion for the BuildIt Mod by RockerKitten",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Crowigor/ValheimBuildItTweaks",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.20.0",
+    "RockerKitten.BuildIt-1.6.4"
+  ]
+}

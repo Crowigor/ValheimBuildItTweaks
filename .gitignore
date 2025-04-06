@@ -1,0 +1,7 @@
+.idea
+bin
+Libs
+obj
+packages
+Realise/BuildItTweaks/BuildItTweaks.dll
+*.user

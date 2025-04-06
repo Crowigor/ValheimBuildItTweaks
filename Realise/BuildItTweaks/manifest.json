@@ -8,6 +8,6 @@
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
     "ValheimModding-Jotunn-2.20.0",
-    "RockerKitten.BuildIt-1.6.4"
+    "RockerKitten-BuildIt-1.6.4"
   ]
 }

@@ -37,8 +37,8 @@ All piece settings are grouped by prefab name for clarity.
 ## ⚠️ Known Issues
 
 - After enabling or disabling a piece, **Valheim needs to be restarted** to update the hammer menu properly.
-    - 🔄 Categories and station filters are applied immediately.
-    - 🪚 However, the in-game UI cache only refreshes **on relog or game restart**.
-    - 💡 Tip: Configure all required pieces first, then restart the game for changes to take full effect.
+  - 🔄 Categories and station filters are applied immediately.
+  - 🪚 However, the in-game UI cache only refreshes **on relog or game restart**.
+  - 💡 Tip: Configure all required pieces first, then restart the game for changes to take full effect.
 
 We’re investigating a way to trigger the hammer menu refresh at runtime. Stay tuned!
